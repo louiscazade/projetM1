@@ -1,5 +1,5 @@
 
-## Projet M1 Santé Publique : Evaluation de la pertinence de méthodes de sélection de covariables.
+## Evaluation de la pertinence de méthodes de sélection de covariables.
 
 *Projet Tutoré - Master 1 Santé Publique 2023/2024*
 
